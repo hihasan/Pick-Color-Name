@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Pick Color Name</string>
+    <string name="body">Pick Color Name - Choose Your color name dynamically.</string>
 </resources>
